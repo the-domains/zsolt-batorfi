@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "I'm confident humans don't get the real meaning of infinity. they think it is something that has no limits, so it infinite. how far from the truth: something is infinite when it transmutates back into itself. another way of expression: it is infinite because it has no ends."
-datePublished: '2016-04-15T20:01:32.773Z'
-dateModified: '2016-04-15T18:10:02.761Z'
+description: "I'm confident humans don't get the real meaning of infinity. they think it is something that has no limits, so it is said to be infinite. how far from the truth: something is infinite when it transmutates back into itself. so it is infinite because it has no ends. even imagination has it is limit. consciousness is the closest thing to infinity.\_"
+datePublished: '2016-04-15T20:23:55.712Z'
+dateModified: '2016-04-15T20:23:36.755Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-what-we-design-designs-us-back.md
