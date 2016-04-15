@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Jason Silva just made the point on my Journey of profession. nicely compressed message.
-datePublished: '2016-04-15T16:38:15.108Z'
-dateModified: '2016-04-15T16:38:08.971Z'
+description: "I'm confident humans don't get the real meaning of infinity. they think it is something that has no limits, so it infinite. how far from the truth: something is infinite when it transmutates back into itself. another way of expression: it is infinite because it has no ends."
+datePublished: '2016-04-15T16:40:49.700Z'
+dateModified: '2016-04-15T16:38:18.060Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-what-we-design-designs-us-back.md
