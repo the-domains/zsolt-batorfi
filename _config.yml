@@ -1,7 +1,7 @@
 name: Zsolt Bátorfi
 favicon: null
 layout_spectrum: 0.26191
-typography_spectrum: 0.4978
+typography_spectrum: 0.49009
 title: the Journey of my professional life
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5268701200839132
   lightness: 0.3998912707902491
   saturation: 0.10909989173524082
-  rhythmicContrast: 0.914073871448636
+  rhythmicContrast: 0.75
 purpose: []
