@@ -4,7 +4,7 @@
         <description><![CDATA[the Journey of my professional existence]]></description>
         <link>https://thegrid.ai/zsolt-batorfi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 19:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 19:49:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zsolt-batorfi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Connecting]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/52861634</link>
             <guid isPermaLink="false">fcf8211f-4e13-425d-aeaa-68b54c2c8cc0</guid>
             <pubDate>Fri, 15 Apr 2016 18:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI Websites That Design Themselves]]></title>
+            <description><![CDATA[<article><h1>AI Websites That Design Themselves</h1><p>This is not another do-it-yourself website builder. The Grid harnesses the power of artificial intelligence to take everything you throw at it - videos, images, text, urls and more - and automatically shape them into a custom website unique to you. As your needs grow, it evolves with you, effortlessly adapting to your needs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c2aa71f774183b698c1df3f3a0bac4a57df5dd9.png"></article>]]></description>
+            <link>https://thegrid.io/</link>
+            <guid isPermaLink="false">aad1d27c-9ecb-4537-be4a-4dad2eec56f7</guid>
+            <pubDate>Fri, 15 Apr 2016 19:49:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Making Material Design]]></title>
@@ -68,13 +75,6 @@
             <link>https://blog.evernote.com/blog/2015/12/11/evernote-and-the-brain-designing-creativity-workflows/</link>
             <guid isPermaLink="false">3c4f795e-e448-46eb-a58f-684322e317bd</guid>
             <pubDate>Fri, 15 Apr 2016 16:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why Design Matters]]></title>
-            <description><![CDATA[<article><h1>Why Design Matters</h1><p>"What we design, designs us back." Join Jason Silva as he freestyles complex systems of society, technology and human existence and discusses the truth and beauty of science in a form of existential jazz. Subscribe now!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c66718412b7578e69c4e6220bd5c36235e98a6d7.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=1hSIq3goQJE</link>
-            <guid isPermaLink="false">5b7bce12-91bc-4ec3-bcff-350cd049977e</guid>
-            <pubDate>Fri, 15 Apr 2016 15:26:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
