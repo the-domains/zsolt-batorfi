@@ -5,9 +5,9 @@ author:
     avatar: {}
 related: []
 publisher:
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
 keywords:
   - duration
@@ -23,34 +23,34 @@ keywords:
 description: '"What we design, designs us back." Join Jason Silva as he freestyles complex systems of society, technology and human existence and discusses the truth and beauty of science in a form of existential jazz. Subscribe now!'
 inLanguage: en
 app_links:
-  - url: 'vnd.youtube://www.youtube.com/watch?v=1hSIq3goQJE&feature=applinks'
+  - app_store_id: '544007664'
+    namespace: ai
+    app_name: YouTube
+    url: 'vnd.youtube://www.youtube.com/watch?v=1hSIq3goQJE&feature=applinks'
     type: ios
-    namespace: ai
-    app_store_id: '544007664'
+  - package: com.google.android.youtube
     app_name: YouTube
-  - url: 'vnd.youtube://www.youtube.com/watch?v=1hSIq3goQJE&feature=applinks'
+    namespace: ai
+    url: 'vnd.youtube://www.youtube.com/watch?v=1hSIq3goQJE&feature=applinks'
     type: android
-    namespace: ai
-    app_name: YouTube
-    package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=1hSIq3goQJE&feature=applinks'
     type: web
     namespace: ai
-  - url: 'vnd.youtube://www.youtube.com/watch?v=1hSIq3goQJE&feature=applinks'
+  - id: '544007664'
     namespace: twitter
+    url: 'vnd.youtube://www.youtube.com/watch?v=1hSIq3goQJE&feature=applinks'
     type: ipad
     name: YouTube
-    id: '544007664'
-  - url: 'vnd.youtube://www.youtube.com/watch?v=1hSIq3goQJE&feature=applinks'
+  - id: '544007664'
     namespace: twitter
+    url: 'vnd.youtube://www.youtube.com/watch?v=1hSIq3goQJE&feature=applinks'
     type: iphone
     name: YouTube
-    id: '544007664'
-  - url: 'https://www.youtube.com/watch?v=1hSIq3goQJE'
+  - id: com.google.android.youtube
     namespace: twitter
+    url: 'https://www.youtube.com/watch?v=1hSIq3goQJE'
     type: googleplay
     name: YouTube
-    id: com.google.android.youtube
   - path: http/www.youtube.com/watch?v=1hSIq3goQJE
     package: com.google.android.youtube
     namespace: google
@@ -61,10 +61,11 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=1hSIq3goQJE'
 title: Why Design Matters
-datePublished: '2016-04-15T15:25:29.166Z'
-dateModified: '2016-04-15T12:14:34.773Z'
+datePublished: '2016-04-15T15:26:15.769Z'
+dateModified: '2016-04-15T15:25:53.050Z'
 sourcePath: _posts/2016-04-15-why-design-matters.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
