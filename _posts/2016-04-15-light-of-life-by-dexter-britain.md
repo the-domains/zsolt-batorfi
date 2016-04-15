@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'You can download this album for free at http://dexterbritain.bandcamp.com/album/light-of-life Join me on Facebook for more music: facebook.com/thedexterbritain'
-datePublished: '2016-04-15T17:00:58.944Z'
-dateModified: '2016-04-15T16:59:49.962Z'
+datePublished: '2016-04-15T17:03:32.455Z'
+dateModified: '2016-04-15T17:01:04.771Z'
 author:
   - name: Dexter Britain
     url: 'http://soundcloud.com/dexterbritain'
