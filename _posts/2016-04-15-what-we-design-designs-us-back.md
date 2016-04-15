@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Jason Silva just made the point on my Journey of profession. nicely compressed message.
-datePublished: '2016-04-15T12:04:38.846Z'
-dateModified: '2016-04-15T12:04:36.600Z'
+datePublished: '2016-04-15T16:38:15.108Z'
+dateModified: '2016-04-15T16:38:08.971Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-what-we-design-designs-us-back.md
@@ -22,10 +22,10 @@ url: what-we-design-designs-us-back/index.html
 _type: Article
 
 ---
-> What we design, designs us back.
+> # Infinity redefined
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d50a224-046e-47cf-9b00-46ce9e671383.jpg)
 
-Jason Silva just made [the point][0] on my Journey of profession. nicely compressed message.
+I'm confident humans don't get the real meaning of infinity. they think it is something that has no limits, so it infinite. how far from the truth: something is infinite when it _transmutates_ back into itself. another way of expression: it is infinite because it has no ends.
 
-[0]: https://www.youtube.com/watch?v=1hSIq3goQJE
+Consciousness is the closest thing to infinity.
