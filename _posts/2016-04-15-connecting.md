@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/52861634'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "What is interaction design? As technology advances, the way we communicate evolves. But it's important not to lose ourselves and focus on enabling natural interactions."
-datePublished: '2016-04-15T18:15:51.576Z'
-dateModified: '2016-04-15T18:12:50.615Z'
+datePublished: '2016-04-15T18:45:01.111Z'
+dateModified: '2016-04-15T18:44:32.117Z'
 author:
   - name: Microsoft Design
     url: 'http://vimeo.com/connectingthefilm'
