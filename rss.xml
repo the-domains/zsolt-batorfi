@@ -4,7 +4,7 @@
         <description><![CDATA[the Journey of my professional existence]]></description>
         <link>https://thegrid.ai/zsolt-batorfi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 20:38:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 20:44:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/zsolt-batorfi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://vimeo.com/52861634</link>
             <guid isPermaLink="false">fcf8211f-4e13-425d-aeaa-68b54c2c8cc0</guid>
             <pubDate>Fri, 15 Apr 2016 18:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Higgs field]]></title>
+            <description><![CDATA[<article><h1>Higgs field</h1><p>The Higgs field is an energy field that is thought to exist everywhere in the universe. The field is accompanied by a fundamental particle called the Higgs boson, which the field uses to continuously interact with other particles. As particles pass through the field they are "given" mass, much as an object passing through treacle (or molasses) will become slower.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/658a20371303b379972bad6c9a35af80524895c2.jpg"></article>]]></description>
+            <link>https://simple.wikipedia.org/wiki/Higgs_field</link>
+            <guid isPermaLink="false">245b7c58-cd78-45bc-99ea-7cd3947d745f</guid>
+            <pubDate>Fri, 15 Apr 2016 20:44:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://soundcloud.com/dexterbritain/sets/light-of-life</link>
             <guid isPermaLink="false">af9e4f7c-3203-48c1-bd73-ce040e25e635</guid>
             <pubDate>Fri, 15 Apr 2016 17:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mantra]]></title>
-            <description><![CDATA[<h1>Mantra</h1>]]></description>
-            <link>https://thegrid.ai/zsolt-batorfi/mantra/index.html</link>
-            <guid isPermaLink="false">5629547d-720a-4e42-8c53-5549a5c24b06</guid>
-            <pubDate>Fri, 15 Apr 2016 16:50:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
