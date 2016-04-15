@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/52861634'
+inLanguage: null
+starred: false
+keywords: []
+description: "What is interaction design? As technology advances, the way we communicate evolves. But it's important not to lose ourselves and focus on enabling natural interactions."
+datePublished: '2016-04-15T18:15:51.576Z'
+dateModified: '2016-04-15T18:12:50.615Z'
 author:
   - name: Microsoft Design
     url: 'http://vimeo.com/connectingthefilm'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: "What is interaction design? As technology advances, the way we communicate evolves. But it's important not to lose ourselves and focus on enabling natural interactions."
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/52861634'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/52861634'
 title: Connecting
-datePublished: '2016-04-15T18:12:41.670Z'
-dateModified: '2016-04-15T18:11:58.484Z'
 sourcePath: _posts/2016-04-15-connecting.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
