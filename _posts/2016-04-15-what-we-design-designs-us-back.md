@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I'm confident humans don't get the real meaning of infinity. they think it is something that has no limits, so it infinite. how far from the truth: something is infinite when it transmutates back into itself. another way of expression: it is infinite because it has no ends."
-datePublished: '2016-04-15T18:09:57.027Z'
-dateModified: '2016-04-15T18:09:46.488Z'
+datePublished: '2016-04-15T20:01:32.773Z'
+dateModified: '2016-04-15T18:10:02.761Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-15-what-we-design-designs-us-back.md
