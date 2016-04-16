@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "What is interaction design? As technology advances, the way we communicate evolves. But it's important not to lose ourselves and focus on enabling natural interactions."
-datePublished: '2016-04-15T18:45:01.111Z'
-dateModified: '2016-04-15T18:44:32.117Z'
+datePublished: '2016-04-16T05:30:03.866Z'
+dateModified: '2016-04-15T18:45:10.481Z'
 author:
   - name: Microsoft Design
     url: 'http://vimeo.com/connectingthefilm'
